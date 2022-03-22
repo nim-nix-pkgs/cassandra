@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-cassandra-master.flake = false;
+  inputs.src-cassandra-master.ref   = "refs/heads/master";
   inputs.src-cassandra-master.owner = "yglukhov";
-  inputs.src-cassandra-master.ref   = "master";
   inputs.src-cassandra-master.repo  = "cassandra";
   inputs.src-cassandra-master.type  = "github";
   
