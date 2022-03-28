@@ -11,7 +11,6 @@
   inputs.src-cassandra-master.ref   = "refs/heads/master";
   inputs.src-cassandra-master.owner = "yglukhov";
   inputs.src-cassandra-master.repo  = "cassandra";
-  inputs.src-cassandra-master.dir   = "";
   inputs.src-cassandra-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
