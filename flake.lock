@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1660789355,
-        "narHash": "sha256-c477hMoTcXf8HUCGUzIe65/0SYiDnOlh4fjjCpa7M14=",
+        "lastModified": 1661566498,
+        "narHash": "sha256-2W+TxAhyWIdcWXFgyQv/zL1eDnjiNcJErD0KnrSk2Ks=",
         "owner": "nim-nix-pkgs",
         "repo": "cassandra",
-        "rev": "dc7ef0c89f04816e35dc6c0bdc6c2f9731f2fcd8",
+        "rev": "3df2ad0e97365d1779362e2cf276fee67b327938",
         "type": "github"
       },
       "original": {
@@ -51,8 +51,8 @@
     "nixpkgs": {
       "locked": {
         "lastModified": 0,
-        "narHash": "sha256-BBeCZwZImtjP3oYy4WogkQYy5OxNyfNciVSc1AfZgLQ=",
-        "path": "/nix/store/z8fi1f38y14lmsyhnph1l98qr3r9x7wr-source",
+        "narHash": "sha256-19Ib1b7Ny+yGhnxwnH1KhhB2hvALuNuqevA6XzqkQmo=",
+        "path": "/nix/store/5mdm97ryfgnsh02h7jiragdmcgh6vbvp-source",
         "type": "path"
       },
       "original": {
